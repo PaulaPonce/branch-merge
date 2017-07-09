@@ -8,7 +8,7 @@
 * Se agrega el archivo a git
 * Commit "mi primer file"
 * Push a branch master
-![Alt-Text](docs/paso1.jpg)
+![alt text](https://github.com/PaulaPonce/branch-merge/blob/master/docs/paso1.JPG)
 
 **Paso 2**
 
@@ -17,7 +17,7 @@
 * Se agrega el archivo a git
 * Commit "agregando un segundo file"
 * Push a branch master
-![Alt-Text](docs/paso2.jpg)
+![alt text](https://github.com/PaulaPonce/branch-merge/blob/master/docs/paso2.JPG)
 
 **Paso 3** 
 
@@ -25,7 +25,7 @@
 * Se añade contenido a hello.txt en branch nuevo-branch
 * Commit "nuevo texto para hello branch"
 * Push a nuevo-branch
-![Alt-Text](docs/paso3.jpg)
+![alt text](https://github.com/PaulaPonce/branch-merge/blob/master/docs/paso3.JPG)
 
 **Paso 4**
 
@@ -34,7 +34,7 @@
 * Agregar nuevo contenido a hello.txt
 * Commit "cambios en el master"
 * Push a master
-![Alt-Text](docs/paso4.jpg)
+![alt text](https://github.com/PaulaPonce/branch-merge/blob/master/docs/paso4.JPG)
 
 **Paso 5**
 
@@ -43,7 +43,7 @@
 * Una vez resueltos hacer commit
 * Commit "resolviendo conflictos"
 * Push a master
-![Alt-Text](docs/paso5.jpg)
+![alt text](https://github.com/PaulaPonce/branch-merge/blob/master/docs/paso5.JPG)
 
 
 Créditos imágenes: [Laboratoria](http://capitan-dev.laboratoria.la/tracks/2/courses/14/units/34/lessons/113/pages/764)
